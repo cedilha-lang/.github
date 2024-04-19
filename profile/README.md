@@ -1,1 +1,1 @@
-## Ç - Text like code for beginners
+## Ç - Text like programming language for beginners
