@@ -1,10 +1,12 @@
 ## Ç - Text like programming language for beginners
 
-# Introduction:
-Ç is beeing depeloped as a pre scientific iniscialization. It's goals is to be as fast and easy as it possibly can, so begginers would have it as an intermidiate step from block programming languages like scratch to lower level stuff like typeScript or PHP.
+<img src="./C-cedilha-programming-lang/assets/logo.png" alt="Descrição da imagem" width="200px">
 
-# How we are creating it:
-As I sad it's goal is to be fast as possible, so for that we will be using the Bun JavaScript runtime, that way it will have a performance close to something like python.
+### Introduction:
+Ç is being developed as a pre-scientific initialization. Its goal is to be as fast and easy as it possibly can, so beginners would have it as an intermediate step from block programming languages like scratch to lower-level stuff like typeScript or PHP.
 
-# Features:
-In the moment there isn't much to it, but there are already some native functions like random, round, 
+### How we are creating it:
+As I said its goal is to be as fast as possible, so for that, we will be using the Bun JavaScript runtime, that way it will have a performance close to something like Python.
+
+### Features:
+At the moment there isn't much to it, but there are already some native functions like random, round, date.now , setTimeout, math.abs, print and import, const and variable declarations, function declarations, objects, booleans and orders of precedence in its math system. It also has a syntax that is very similar to JavaScript 
