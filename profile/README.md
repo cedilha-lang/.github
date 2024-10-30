@@ -1,7 +1,7 @@
 ## Ç♭ - A programming environment for beginners
 
 
-<img src="cedilha_flat-profile_IMG.png" alt="Descrição da imagem" width="1000px">
+<img src="cedilha_flat-profile_IMG.webp" alt="Descrição da imagem" width="1000px">
 
 ### Introduction
 <hr>
