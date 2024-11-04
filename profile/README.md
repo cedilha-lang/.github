@@ -5,7 +5,7 @@
 
 ### Introduction
 <hr>
-Ç Flat is currently being developed as an introductory programming language. Its primary goal is to be as fast and user-friendly as possible, making it an ideal intermediate step for beginners transitioning from block-based languages like Scratch to more complex, lower-level languages such as TypeScript or PHP. The aim is to bridge the gap in learning, providing a smooth transition that helps novices build a solid foundation in programming concepts before diving into more advanced coding environments.
+Ç Flat is currently being developed as an introductory programming language. Its primary goal is to be as fast and user-friendly as possible, making it an ideal intermediate step for beginners transitioning from block-based languages like Scratch to more complex, lower-level languages such as Go or Rust. The aim is to bridge the gap in learning, providing a smooth transition that helps novices build a solid foundation in programming concepts before diving into more advanced coding environments.
 
 ### Get Involved
 <hr>
